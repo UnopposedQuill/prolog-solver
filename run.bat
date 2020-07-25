@@ -1,0 +1,1 @@
+swipl -q -g main .\main.pl
